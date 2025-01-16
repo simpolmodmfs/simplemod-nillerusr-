@@ -112,10 +112,6 @@ $Project "Client (HL2MP)"
 			$File	"hl2\hud_zoom.cpp"
 			$File	"hl2\shieldproxy.cpp"
 			$File	"hl2\vgui_rootpanel_hl2.cpp"
-		}
-
-		$Folder "simple"
-		{
 			$File "simple\c_weapon_gravitygun.cpp"
 		}
 
